@@ -1,0 +1,1848 @@
+2024-05-23 16:33:32 INFO  ApiTests.class - New Bookings made: {
+    "bookingid": 830,
+    "booking": {
+        "firstname": "John",
+        "lastname": "Doe",
+        "totalprice": 500,
+        "depositpaid": true,
+        "bookingdates": {
+            "checkin": "2024-06-01",
+            "checkout": "2024-06-10"
+        },
+        "additionalneeds": "Lunch"
+    }
+}
+2024-05-23 16:33:33 INFO  ApiTests.class - New Bookings made: {
+    "bookingid": 845,
+    "booking": {
+        "firstname": "Mike",
+        "lastname": "Smith",
+        "totalprice": 1000,
+        "depositpaid": false,
+        "bookingdates": {
+            "checkin": "2024-06-15",
+            "checkout": "2024-06-20"
+        }
+    }
+}
+2024-05-23 16:33:33 INFO  ApiTests.class - Showing all Booking Id's: [
+    {
+        "bookingid": 663
+    },
+    {
+        "bookingid": 497
+    },
+    {
+        "bookingid": 471
+    },
+    {
+        "bookingid": 363
+    },
+    {
+        "bookingid": 271
+    },
+    {
+        "bookingid": 552
+    },
+    {
+        "bookingid": 130
+    },
+    {
+        "bookingid": 424
+    },
+    {
+        "bookingid": 144
+    },
+    {
+        "bookingid": 189
+    },
+    {
+        "bookingid": 456
+    },
+    {
+        "bookingid": 659
+    },
+    {
+        "bookingid": 119
+    },
+    {
+        "bookingid": 394
+    },
+    {
+        "bookingid": 462
+    },
+    {
+        "bookingid": 379
+    },
+    {
+        "bookingid": 712
+    },
+    {
+        "bookingid": 676
+    },
+    {
+        "bookingid": 678
+    },
+    {
+        "bookingid": 715
+    },
+    {
+        "bookingid": 403
+    },
+    {
+        "bookingid": 330
+    },
+    {
+        "bookingid": 218
+    },
+    {
+        "bookingid": 512
+    },
+    {
+        "bookingid": 399
+    },
+    {
+        "bookingid": 213
+    },
+    {
+        "bookingid": 78
+    },
+    {
+        "bookingid": 36
+    },
+    {
+        "bookingid": 709
+    },
+    {
+        "bookingid": 524
+    },
+    {
+        "bookingid": 121
+    },
+    {
+        "bookingid": 59
+    },
+    {
+        "bookingid": 133
+    },
+    {
+        "bookingid": 243
+    },
+    {
+        "bookingid": 376
+    },
+    {
+        "bookingid": 163
+    },
+    {
+        "bookingid": 696
+    },
+    {
+        "bookingid": 39
+    },
+    {
+        "bookingid": 751
+    },
+    {
+        "bookingid": 257
+    },
+    {
+        "bookingid": 18
+    },
+    {
+        "bookingid": 320
+    },
+    {
+        "bookingid": 589
+    },
+    {
+        "bookingid": 178
+    },
+    {
+        "bookingid": 827
+    },
+    {
+        "bookingid": 401
+    },
+    {
+        "bookingid": 660
+    },
+    {
+        "bookingid": 378
+    },
+    {
+        "bookingid": 622
+    },
+    {
+        "bookingid": 720
+    },
+    {
+        "bookingid": 520
+    },
+    {
+        "bookingid": 564
+    },
+    {
+        "bookingid": 430
+    },
+    {
+        "bookingid": 172
+    },
+    {
+        "bookingid": 26
+    },
+    {
+        "bookingid": 53
+    },
+    {
+        "bookingid": 8
+    },
+    {
+        "bookingid": 648
+    },
+    {
+        "bookingid": 577
+    },
+    {
+        "bookingid": 137
+    },
+    {
+        "bookingid": 641
+    },
+    {
+        "bookingid": 90
+    },
+    {
+        "bookingid": 780
+    },
+    {
+        "bookingid": 640
+    },
+    {
+        "bookingid": 748
+    },
+    {
+        "bookingid": 82
+    },
+    {
+        "bookingid": 154
+    },
+    {
+        "bookingid": 565
+    },
+    {
+        "bookingid": 697
+    },
+    {
+        "bookingid": 136
+    },
+    {
+        "bookingid": 252
+    },
+    {
+        "bookingid": 29
+    },
+    {
+        "bookingid": 352
+    },
+    {
+        "bookingid": 639
+    },
+    {
+        "bookingid": 109
+    },
+    {
+        "bookingid": 341
+    },
+    {
+        "bookingid": 482
+    },
+    {
+        "bookingid": 487
+    },
+    {
+        "bookingid": 582
+    },
+    {
+        "bookingid": 707
+    },
+    {
+        "bookingid": 283
+    },
+    {
+        "bookingid": 742
+    },
+    {
+        "bookingid": 681
+    },
+    {
+        "bookingid": 829
+    },
+    {
+        "bookingid": 263
+    },
+    {
+        "bookingid": 704
+    },
+    {
+        "bookingid": 490
+    },
+    {
+        "bookingid": 839
+    },
+    {
+        "bookingid": 517
+    },
+    {
+        "bookingid": 54
+    },
+    {
+        "bookingid": 6
+    },
+    {
+        "bookingid": 692
+    },
+    {
+        "bookingid": 528
+    },
+    {
+        "bookingid": 435
+    },
+    {
+        "bookingid": 503
+    },
+    {
+        "bookingid": 388
+    },
+    {
+        "bookingid": 74
+    },
+    {
+        "bookingid": 476
+    },
+    {
+        "bookingid": 202
+    },
+    {
+        "bookingid": 630
+    },
+    {
+        "bookingid": 305
+    },
+    {
+        "bookingid": 429
+    },
+    {
+        "bookingid": 284
+    },
+    {
+        "bookingid": 168
+    },
+    {
+        "bookingid": 776
+    },
+    {
+        "bookingid": 441
+    },
+    {
+        "bookingid": 269
+    },
+    {
+        "bookingid": 11
+    },
+    {
+        "bookingid": 588
+    },
+    {
+        "bookingid": 516
+    },
+    {
+        "bookingid": 835
+    },
+    {
+        "bookingid": 50
+    },
+    {
+        "bookingid": 580
+    },
+    {
+        "bookingid": 398
+    },
+    {
+        "bookingid": 575
+    },
+    {
+        "bookingid": 13
+    },
+    {
+        "bookingid": 797
+    },
+    {
+        "bookingid": 149
+    },
+    {
+        "bookingid": 344
+    },
+    {
+        "bookingid": 671
+    },
+    {
+        "bookingid": 261
+    },
+    {
+        "bookingid": 832
+    },
+    {
+        "bookingid": 157
+    },
+    {
+        "bookingid": 783
+    },
+    {
+        "bookingid": 295
+    },
+    {
+        "bookingid": 465
+    },
+    {
+        "bookingid": 14
+    },
+    {
+        "bookingid": 844
+    },
+    {
+        "bookingid": 180
+    },
+    {
+        "bookingid": 233
+    },
+    {
+        "bookingid": 219
+    },
+    {
+        "bookingid": 765
+    },
+    {
+        "bookingid": 402
+    },
+    {
+        "bookingid": 723
+    },
+    {
+        "bookingid": 58
+    },
+    {
+        "bookingid": 28
+    },
+    {
+        "bookingid": 66
+    },
+    {
+        "bookingid": 325
+    },
+    {
+        "bookingid": 702
+    },
+    {
+        "bookingid": 638
+    },
+    {
+        "bookingid": 831
+    },
+    {
+        "bookingid": 690
+    },
+    {
+        "bookingid": 324
+    },
+    {
+        "bookingid": 544
+    },
+    {
+        "bookingid": 131
+    },
+    {
+        "bookingid": 570
+    },
+    {
+        "bookingid": 649
+    },
+    {
+        "bookingid": 806
+    },
+    {
+        "bookingid": 607
+    },
+    {
+        "bookingid": 616
+    },
+    {
+        "bookingid": 206
+    },
+    {
+        "bookingid": 22
+    },
+    {
+        "bookingid": 443
+    },
+    {
+        "bookingid": 743
+    },
+    {
+        "bookingid": 346
+    },
+    {
+        "bookingid": 297
+    },
+    {
+        "bookingid": 169
+    },
+    {
+        "bookingid": 392
+    },
+    {
+        "bookingid": 72
+    },
+    {
+        "bookingid": 105
+    },
+    {
+        "bookingid": 594
+    },
+    {
+        "bookingid": 55
+    },
+    {
+        "bookingid": 727
+    },
+    {
+        "bookingid": 357
+    },
+    {
+        "bookingid": 629
+    },
+    {
+        "bookingid": 492
+    },
+    {
+        "bookingid": 555
+    },
+    {
+        "bookingid": 31
+    },
+    {
+        "bookingid": 833
+    },
+    {
+        "bookingid": 792
+    },
+    {
+        "bookingid": 87
+    },
+    {
+        "bookingid": 67
+    },
+    {
+        "bookingid": 369
+    },
+    {
+        "bookingid": 183
+    },
+    {
+        "bookingid": 809
+    },
+    {
+        "bookingid": 794
+    },
+    {
+        "bookingid": 530
+    },
+    {
+        "bookingid": 645
+    },
+    {
+        "bookingid": 387
+    },
+    {
+        "bookingid": 2
+    },
+    {
+        "bookingid": 567
+    },
+    {
+        "bookingid": 15
+    },
+    {
+        "bookingid": 340
+    },
+    {
+        "bookingid": 540
+    },
+    {
+        "bookingid": 412
+    },
+    {
+        "bookingid": 574
+    },
+    {
+        "bookingid": 449
+    },
+    {
+        "bookingid": 725
+    },
+    {
+        "bookingid": 145
+    },
+    {
+        "bookingid": 426
+    },
+    {
+        "bookingid": 222
+    },
+    {
+        "bookingid": 27
+    },
+    {
+        "bookingid": 717
+    },
+    {
+        "bookingid": 478
+    },
+    {
+        "bookingid": 554
+    },
+    {
+        "bookingid": 573
+    },
+    {
+        "bookingid": 774
+    },
+    {
+        "bookingid": 739
+    },
+    {
+        "bookingid": 42
+    },
+    {
+        "bookingid": 753
+    },
+    {
+        "bookingid": 198
+    },
+    {
+        "bookingid": 624
+    },
+    {
+        "bookingid": 185
+    },
+    {
+        "bookingid": 735
+    },
+    {
+        "bookingid": 236
+    },
+    {
+        "bookingid": 21
+    },
+    {
+        "bookingid": 489
+    },
+    {
+        "bookingid": 80
+    },
+    {
+        "bookingid": 754
+    },
+    {
+        "bookingid": 289
+    },
+    {
+        "bookingid": 329
+    },
+    {
+        "bookingid": 457
+    },
+    {
+        "bookingid": 65
+    },
+    {
+        "bookingid": 450
+    },
+    {
+        "bookingid": 293
+    },
+    {
+        "bookingid": 336
+    },
+    {
+        "bookingid": 672
+    },
+    {
+        "bookingid": 535
+    },
+    {
+        "bookingid": 116
+    },
+    {
+        "bookingid": 511
+    },
+    {
+        "bookingid": 466
+    },
+    {
+        "bookingid": 223
+    },
+    {
+        "bookingid": 634
+    },
+    {
+        "bookingid": 266
+    },
+    {
+        "bookingid": 746
+    },
+    {
+        "bookingid": 64
+    },
+    {
+        "bookingid": 165
+    },
+    {
+        "bookingid": 247
+    },
+    {
+        "bookingid": 41
+    },
+    {
+        "bookingid": 755
+    },
+    {
+        "bookingid": 418
+    },
+    {
+        "bookingid": 775
+    },
+    {
+        "bookingid": 655
+    },
+    {
+        "bookingid": 333
+    },
+    {
+        "bookingid": 669
+    },
+    {
+        "bookingid": 543
+    },
+    {
+        "bookingid": 267
+    },
+    {
+        "bookingid": 12
+    },
+    {
+        "bookingid": 823
+    },
+    {
+        "bookingid": 749
+    },
+    {
+        "bookingid": 790
+    },
+    {
+        "bookingid": 664
+    },
+    {
+        "bookingid": 338
+    },
+    {
+        "bookingid": 101
+    },
+    {
+        "bookingid": 463
+    },
+    {
+        "bookingid": 538
+    },
+    {
+        "bookingid": 448
+    },
+    {
+        "bookingid": 601
+    },
+    {
+        "bookingid": 472
+    },
+    {
+        "bookingid": 651
+    },
+    {
+        "bookingid": 591
+    },
+    {
+        "bookingid": 703
+    },
+    {
+        "bookingid": 522
+    },
+    {
+        "bookingid": 665
+    },
+    {
+        "bookingid": 23
+    },
+    {
+        "bookingid": 473
+    },
+    {
+        "bookingid": 95
+    },
+    {
+        "bookingid": 500
+    },
+    {
+        "bookingid": 849
+    },
+    {
+        "bookingid": 811
+    },
+    {
+        "bookingid": 600
+    },
+    {
+        "bookingid": 432
+    },
+    {
+        "bookingid": 272
+    },
+    {
+        "bookingid": 718
+    },
+    {
+        "bookingid": 148
+    },
+    {
+        "bookingid": 32
+    },
+    {
+        "bookingid": 210
+    },
+    {
+        "bookingid": 112
+    },
+    {
+        "bookingid": 48
+    },
+    {
+        "bookingid": 732
+    },
+    {
+        "bookingid": 68
+    },
+    {
+        "bookingid": 339
+    },
+    {
+        "bookingid": 281
+    },
+    {
+        "bookingid": 246
+    },
+    {
+        "bookingid": 76
+    },
+    {
+        "bookingid": 47
+    },
+    {
+        "bookingid": 557
+    },
+    {
+        "bookingid": 405
+    },
+    {
+        "bookingid": 321
+    },
+    {
+        "bookingid": 203
+    },
+    {
+        "bookingid": 61
+    },
+    {
+        "bookingid": 260
+    },
+    {
+        "bookingid": 217
+    },
+    {
+        "bookingid": 836
+    },
+    {
+        "bookingid": 729
+    },
+    {
+        "bookingid": 19
+    },
+    {
+        "bookingid": 781
+    },
+    {
+        "bookingid": 658
+    },
+    {
+        "bookingid": 529
+    },
+    {
+        "bookingid": 328
+    },
+    {
+        "bookingid": 143
+    },
+    {
+        "bookingid": 73
+    },
+    {
+        "bookingid": 845
+    },
+    {
+        "bookingid": 437
+    },
+    {
+        "bookingid": 534
+    },
+    {
+        "bookingid": 677
+    },
+    {
+        "bookingid": 733
+    },
+    {
+        "bookingid": 303
+    },
+    {
+        "bookingid": 287
+    },
+    {
+        "bookingid": 158
+    },
+    {
+        "bookingid": 419
+    },
+    {
+        "bookingid": 231
+    },
+    {
+        "bookingid": 826
+    },
+    {
+        "bookingid": 35
+    },
+    {
+        "bookingid": 569
+    },
+    {
+        "bookingid": 627
+    },
+    {
+        "bookingid": 204
+    },
+    {
+        "bookingid": 800
+    },
+    {
+        "bookingid": 52
+    },
+    {
+        "bookingid": 100
+    },
+    {
+        "bookingid": 619
+    },
+    {
+        "bookingid": 481
+    },
+    {
+        "bookingid": 86
+    },
+    {
+        "bookingid": 730
+    },
+    {
+        "bookingid": 34
+    },
+    {
+        "bookingid": 234
+    },
+    {
+        "bookingid": 153
+    },
+    {
+        "bookingid": 299
+    },
+    {
+        "bookingid": 646
+    },
+    {
+        "bookingid": 553
+    },
+    {
+        "bookingid": 548
+    },
+    {
+        "bookingid": 626
+    },
+    {
+        "bookingid": 208
+    },
+    {
+        "bookingid": 1
+    },
+    {
+        "bookingid": 57
+    },
+    {
+        "bookingid": 91
+    },
+    {
+        "bookingid": 581
+    },
+    {
+        "bookingid": 686
+    },
+    {
+        "bookingid": 631
+    },
+    {
+        "bookingid": 279
+    },
+    {
+        "bookingid": 37
+    },
+    {
+        "bookingid": 568
+    },
+    {
+        "bookingid": 103
+    },
+    {
+        "bookingid": 4
+    },
+    {
+        "bookingid": 248
+    },
+    {
+        "bookingid": 423
+    },
+    {
+        "bookingid": 606
+    },
+    {
+        "bookingid": 292
+    },
+    {
+        "bookingid": 354
+    },
+    {
+        "bookingid": 768
+    },
+    {
+        "bookingid": 366
+    },
+    {
+        "bookingid": 251
+    },
+    {
+        "bookingid": 393
+    },
+    {
+        "bookingid": 358
+    },
+    {
+        "bookingid": 499
+    },
+    {
+        "bookingid": 386
+    },
+    {
+        "bookingid": 307
+    },
+    {
+        "bookingid": 523
+    },
+    {
+        "bookingid": 545
+    },
+    {
+        "bookingid": 442
+    },
+    {
+        "bookingid": 83
+    },
+    {
+        "bookingid": 24
+    },
+    {
+        "bookingid": 46
+    },
+    {
+        "bookingid": 416
+    },
+    {
+        "bookingid": 70
+    },
+    {
+        "bookingid": 140
+    },
+    {
+        "bookingid": 361
+    },
+    {
+        "bookingid": 738
+    },
+    {
+        "bookingid": 420
+    },
+    {
+        "bookingid": 444
+    },
+    {
+        "bookingid": 602
+    },
+    {
+        "bookingid": 561
+    },
+    {
+        "bookingid": 113
+    },
+    {
+        "bookingid": 795
+    },
+    {
+        "bookingid": 71
+    },
+    {
+        "bookingid": 843
+    },
+    {
+        "bookingid": 621
+    },
+    {
+        "bookingid": 452
+    },
+    {
+        "bookingid": 493
+    },
+    {
+        "bookingid": 45
+    },
+    {
+        "bookingid": 789
+    },
+    {
+        "bookingid": 491
+    },
+    {
+        "bookingid": 114
+    },
+    {
+        "bookingid": 675
+    },
+    {
+        "bookingid": 799
+    },
+    {
+        "bookingid": 807
+    },
+    {
+        "bookingid": 691
+    },
+    {
+        "bookingid": 20
+    },
+    {
+        "bookingid": 3
+    },
+    {
+        "bookingid": 152
+    },
+    {
+        "bookingid": 280
+    },
+    {
+        "bookingid": 382
+    },
+    {
+        "bookingid": 586
+    },
+    {
+        "bookingid": 301
+    },
+    {
+        "bookingid": 851
+    },
+    {
+        "bookingid": 411
+    },
+    {
+        "bookingid": 225
+    },
+    {
+        "bookingid": 822
+    },
+    {
+        "bookingid": 560
+    },
+    {
+        "bookingid": 652
+    },
+    {
+        "bookingid": 5
+    },
+    {
+        "bookingid": 242
+    },
+    {
+        "bookingid": 322
+    },
+    {
+        "bookingid": 94
+    },
+    {
+        "bookingid": 698
+    },
+    {
+        "bookingid": 265
+    },
+    {
+        "bookingid": 610
+    },
+    {
+        "bookingid": 288
+    },
+    {
+        "bookingid": 212
+    },
+    {
+        "bookingid": 368
+    },
+    {
+        "bookingid": 373
+    },
+    {
+        "bookingid": 496
+    },
+    {
+        "bookingid": 654
+    },
+    {
+        "bookingid": 813
+    },
+    {
+        "bookingid": 276
+    },
+    {
+        "bookingid": 192
+    },
+    {
+        "bookingid": 804
+    },
+    {
+        "bookingid": 134
+    },
+    {
+        "bookingid": 464
+    },
+    {
+        "bookingid": 315
+    },
+    {
+        "bookingid": 415
+    },
+    {
+        "bookingid": 125
+    },
+    {
+        "bookingid": 146
+    },
+    {
+        "bookingid": 49
+    },
+    {
+        "bookingid": 10
+    },
+    {
+        "bookingid": 814
+    },
+    {
+        "bookingid": 117
+    },
+    {
+        "bookingid": 636
+    },
+    {
+        "bookingid": 104
+    },
+    {
+        "bookingid": 318
+    },
+    {
+        "bookingid": 9
+    },
+    {
+        "bookingid": 840
+    },
+    {
+        "bookingid": 762
+    },
+    {
+        "bookingid": 687
+    },
+    {
+        "bookingid": 314
+    },
+    {
+        "bookingid": 643
+    },
+    {
+        "bookingid": 436
+    },
+    {
+        "bookingid": 706
+    },
+    {
+        "bookingid": 447
+    },
+    {
+        "bookingid": 194
+    },
+    {
+        "bookingid": 486
+    },
+    {
+        "bookingid": 17
+    },
+    {
+        "bookingid": 670
+    },
+    {
+        "bookingid": 139
+    },
+    {
+        "bookingid": 43
+    },
+    {
+        "bookingid": 97
+    },
+    {
+        "bookingid": 431
+    },
+    {
+        "bookingid": 177
+    },
+    {
+        "bookingid": 786
+    },
+    {
+        "bookingid": 92
+    },
+    {
+        "bookingid": 174
+    },
+    {
+        "bookingid": 830
+    },
+    {
+        "bookingid": 559
+    },
+    {
+        "bookingid": 699
+    },
+    {
+        "bookingid": 759
+    },
+    {
+        "bookingid": 312
+    },
+    {
+        "bookingid": 161
+    },
+    {
+        "bookingid": 214
+    },
+    {
+        "bookingid": 381
+    },
+    {
+        "bookingid": 126
+    },
+    {
+        "bookingid": 237
+    },
+    {
+        "bookingid": 359
+    },
+    {
+        "bookingid": 254
+    },
+    {
+        "bookingid": 345
+    },
+    {
+        "bookingid": 335
+    },
+    {
+        "bookingid": 16
+    },
+    {
+        "bookingid": 353
+    },
+    {
+        "bookingid": 710
+    },
+    {
+        "bookingid": 506
+    },
+    {
+        "bookingid": 782
+    },
+    {
+        "bookingid": 657
+    },
+    {
+        "bookingid": 608
+    },
+    {
+        "bookingid": 216
+    },
+    {
+        "bookingid": 756
+    },
+    {
+        "bookingid": 166
+    },
+    {
+        "bookingid": 291
+    },
+    {
+        "bookingid": 51
+    },
+    {
+        "bookingid": 468
+    },
+    {
+        "bookingid": 818
+    },
+    {
+        "bookingid": 734
+    },
+    {
+        "bookingid": 763
+    },
+    {
+        "bookingid": 274
+    },
+    {
+        "bookingid": 191
+    },
+    {
+        "bookingid": 176
+    },
+    {
+        "bookingid": 62
+    },
+    {
+        "bookingid": 196
+    },
+    {
+        "bookingid": 389
+    },
+    {
+        "bookingid": 547
+    },
+    {
+        "bookingid": 438
+    },
+    {
+        "bookingid": 614
+    },
+    {
+        "bookingid": 808
+    },
+    {
+        "bookingid": 760
+    },
+    {
+        "bookingid": 585
+    },
+    {
+        "bookingid": 587
+    },
+    {
+        "bookingid": 98
+    },
+    {
+        "bookingid": 693
+    },
+    {
+        "bookingid": 793
+    },
+    {
+        "bookingid": 309
+    },
+    {
+        "bookingid": 241
+    },
+    {
+        "bookingid": 724
+    },
+    {
+        "bookingid": 367
+    },
+    {
+        "bookingid": 7
+    },
+    {
+        "bookingid": 459
+    },
+    {
+        "bookingid": 255
+    },
+    {
+        "bookingid": 536
+    },
+    {
+        "bookingid": 77
+    },
+    {
+        "bookingid": 666
+    },
+    {
+        "bookingid": 306
+    },
+    {
+        "bookingid": 211
+    },
+    {
+        "bookingid": 816
+    },
+    {
+        "bookingid": 380
+    },
+    {
+        "bookingid": 684
+    },
+    {
+        "bookingid": 596
+    },
+    {
+        "bookingid": 685
+    },
+    {
+        "bookingid": 187
+    },
+    {
+        "bookingid": 327
+    },
+    {
+        "bookingid": 507
+    },
+    {
+        "bookingid": 124
+    },
+    {
+        "bookingid": 632
+    },
+    {
+        "bookingid": 277
+    },
+    {
+        "bookingid": 384
+    },
+    {
+        "bookingid": 184
+    },
+    {
+        "bookingid": 510
+    },
+    {
+        "bookingid": 396
+    },
+    {
+        "bookingid": 470
+    },
+    {
+        "bookingid": 30
+    },
+    {
+        "bookingid": 787
+    },
+    {
+        "bookingid": 615
+    },
+    {
+        "bookingid": 514
+    },
+    {
+        "bookingid": 425
+    },
+    {
+        "bookingid": 374
+    },
+    {
+        "bookingid": 408
+    },
+    {
+        "bookingid": 550
+    },
+    {
+        "bookingid": 33
+    },
+    {
+        "bookingid": 232
+    },
+    {
+        "bookingid": 713
+    },
+    {
+        "bookingid": 106
+    },
+    {
+        "bookingid": 484
+    },
+    {
+        "bookingid": 744
+    },
+    {
+        "bookingid": 850
+    },
+    {
+        "bookingid": 770
+    },
+    {
+        "bookingid": 604
+    },
+    {
+        "bookingid": 171
+    },
+    {
+        "bookingid": 501
+    },
+    {
+        "bookingid": 410
+    },
+    {
+        "bookingid": 722
+    },
+    {
+        "bookingid": 532
+    },
+    {
+        "bookingid": 825
+    },
+    {
+        "bookingid": 541
+    },
+    {
+        "bookingid": 802
+    },
+    {
+        "bookingid": 205
+    },
+    {
+        "bookingid": 409
+    },
+    {
+        "bookingid": 127
+    },
+    {
+        "bookingid": 518
+    },
+    {
+        "bookingid": 558
+    },
+    {
+        "bookingid": 75
+    },
+    {
+        "bookingid": 595
+    },
+    {
+        "bookingid": 613
+    },
+    {
+        "bookingid": 611
+    },
+    {
+        "bookingid": 350
+    },
+    {
+        "bookingid": 679
+    },
+    {
+        "bookingid": 142
+    },
+    {
+        "bookingid": 578
+    },
+    {
+        "bookingid": 160
+    },
+    {
+        "bookingid": 504
+    },
+    {
+        "bookingid": 772
+    },
+    {
+        "bookingid": 239
+    },
+    {
+        "bookingid": 63
+    },
+    {
+        "bookingid": 156
+    },
+    {
+        "bookingid": 351
+    },
+    {
+        "bookingid": 777
+    },
+    {
+        "bookingid": 199
+    },
+    {
+        "bookingid": 360
+    },
+    {
+        "bookingid": 294
+    },
+    {
+        "bookingid": 190
+    },
+    {
+        "bookingid": 195
+    },
+    {
+        "bookingid": 458
+    },
+    {
+        "bookingid": 347
+    },
+    {
+        "bookingid": 803
+    },
+    {
+        "bookingid": 716
+    },
+    {
+        "bookingid": 229
+    },
+    {
+        "bookingid": 40
+    },
+    {
+        "bookingid": 769
+    },
+    {
+        "bookingid": 228
+    },
+    {
+        "bookingid": 480
+    },
+    {
+        "bookingid": 848
+    },
+    {
+        "bookingid": 84
+    },
+    {
+        "bookingid": 812
+    },
+    {
+        "bookingid": 123
+    },
+    {
+        "bookingid": 526
+    },
+    {
+        "bookingid": 120
+    },
+    {
+        "bookingid": 259
+    },
+    {
+        "bookingid": 741
+    },
+    {
+        "bookingid": 244
+    },
+    {
+        "bookingid": 820
+    },
+    {
+        "bookingid": 625
+    },
+    {
+        "bookingid": 475
+    },
+    {
+        "bookingid": 224
+    },
+    {
+        "bookingid": 296
+    },
+    {
+        "bookingid": 316
+    },
+    {
+        "bookingid": 81
+    },
+    {
+        "bookingid": 841
+    },
+    {
+        "bookingid": 311
+    },
+    {
+        "bookingid": 107
+    },
+    {
+        "bookingid": 761
+    },
+    {
+        "bookingid": 404
+    },
+    {
+        "bookingid": 598
+    },
+    {
+        "bookingid": 451
+    },
+    {
+        "bookingid": 372
+    }
+]
+2024-05-23 16:33:34 INFO  ApiTests.class - Updated totalprice for booking id : 830 {
+    "firstname": "John",
+    "lastname": "Doe",
+    "totalprice": 1000,
+    "depositpaid": true,
+    "bookingdates": {
+        "checkin": "2024-06-01",
+        "checkout": "2024-06-10"
+    },
+    "additionalneeds": "Lunch"
+}
+2024-05-23 16:33:34 INFO  ApiTests.class - Updated totalprice for booking id : 845 {
+    "firstname": "Mike",
+    "lastname": "Smith",
+    "totalprice": 1500,
+    "depositpaid": false,
+    "bookingdates": {
+        "checkin": "2024-06-15",
+        "checkout": "2024-06-20"
+    }
+}
+2024-05-23 16:33:35 INFO  ApiTests.class - Booking deleted for booking id : 830 Delete API response : Created
